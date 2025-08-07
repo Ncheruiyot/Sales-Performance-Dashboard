@@ -53,7 +53,7 @@ It empowers decision-makers to identify areas of decline, spot profitable accoun
 
 ## 🧾 Files Included
 
-- 📸 `<img width="1441" height="810" alt="Screenshot 2025-08-07 134004" src="https://github.com/user-attachments/assets/f0d7638e-eb31-438d-a041-dc1a2ffc6e4e" />
+- 📸 <img width="1441" height="810" alt="Screenshot 2025-08-07 134004" src="https://github.com/user-attachments/assets/f0d7638e-eb31-438d-a041-dc1a2ffc6e4e" />
 ` – Dashboard preview
 - 📊 `Plant_DTS.xls` – Source dataset used in Power BI (sample)
 
